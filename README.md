@@ -23,6 +23,6 @@ If you want to run this bot continually as a [Windows Service](https://learn.mic
 1. Ensure "node-windows" is installed as a node module.
 2. Run "node .\service.js".
 3. Allow all following pop-ups.
-4. Ensure the service was successfully added (go to Services app and look for "Discord Bot (PromptBot)")
+4. Ensure the service was successfully added (go to Services app and look for "Discord Bot (PromptBot)").
 
 If you follow these steps, you should not need to run the "index.js" in the above method, however please follow all preceeding steps.
