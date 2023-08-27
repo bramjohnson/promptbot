@@ -1,0 +1,7 @@
+{
+    "clientId": "your-client-id-here",
+    "guildId": "your-guild-id-here",
+    "token": "your-token-here"
+}
+
+// Rename this file to 'config.json' when finished
